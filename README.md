@@ -8,3 +8,8 @@ https://rawcdn.githack.com/yanuaraditia/fabric/bb4c13fbcf78ed2d7bd1e3ecb1f4b1089
 ```
 How do I add in your HTML code?? Click the link below the source code:
 [Source Code Fabric Icons CDN](https://yanuaraditia.github.com/fabric/fabric-icons.html)
+
+Thanks To
+- God Almighty
+- [Microsoft](https://microsoft.com)
+- All of you 😂
