@@ -1,5 +1,5 @@
 # Fabric Icons
-Fabric ikon, seperti kita ketahui adalah icon plugin yang dikembangkan oleh tim Microsoft dalam projek yang disebut fluent design. Penggunaan fabric jarang sekali yang menggunakan dalam web, karena sedikit kurang ter-ekspose oleh para developer front end, tapi setelah menyelam beberapa lama di internet, saya menemukan cara untuk menggunakan benda ini. Gunakan link css dibawah ini :
+Fabric icons, as we know are icon plugins developed by Microsoft team in a project called fluent design. The use of fabric is rarely used in the web, because it is a little less exspose by front end developers, but after some long dive on the internet, I found a way to use this object. Use the CSS link below :
 ```bash
 Blabla
 ```
