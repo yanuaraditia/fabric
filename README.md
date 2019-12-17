@@ -4,5 +4,5 @@ Fabric icons, as we know are icon plugins developed by Microsoft team in a proje
 https://rawcdn.githack.com/yanuaraditia/fabric/5a0fe88004bccaf3b5b5d78b5a29660cf8524084/fabric-icons.css
 ```
 ```bash
-https://rawcdn.githack.com/yanuaraditia/fabric/5a0fe88004bccaf3b5b5d78b5a29660cf8524084/fabric-icons.css
+https://rawcdn.githack.com/yanuaraditia/fabric/bb4c13fbcf78ed2d7bd1e3ecb1f4b10898b6b129/fabric-icons-inline.css
 ```
