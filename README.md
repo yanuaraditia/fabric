@@ -7,7 +7,7 @@ https://rawcdn.githack.com/yanuaraditia/fabric/5a0fe88004bccaf3b5b5d78b5a29660cf
 https://rawcdn.githack.com/yanuaraditia/fabric/bb4c13fbcf78ed2d7bd1e3ecb1f4b10898b6b129/fabric-icons-inline.css
 ```
 How do I add in your HTML code?? Click the link below the source code:
-[Source Code Fabric Icons CDN](https://yanuaraditia.github.com/fabric/fabric-icons.html)
+[Source Code Fabric Icons CDN](https://fabric-icon.netlify.com/)
 
 Thanks To
 - God Almighty
